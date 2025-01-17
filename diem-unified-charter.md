@@ -27,7 +27,7 @@ Other use cases for future consideration may also cover assets that lack this re
 or even require separate digital discovery. The WG will ensure maximum reuse of work
 for emblem representation and binding. A discovery
 mechanism for the initial work will only be specified by this group after the initial emblem
-binding protocol is completed (see the Deliverables section below).”
+binding protocol is completed (see the Deliverables section below).
 
 The working group is tasked with developing: 1) use cases and requirements related to the
 initial scope, 2) an architecture that captures the relationships between entities utilizing
